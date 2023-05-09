@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #ec9898;
+}
+
+header {
+  width: 100%;
+  height: 20%;
+}
+.container {
+  width: 100vw;
+  background-color: #dddddd;
+}
+.ingrediente {
+  border-radius: 25px;
+}
+img#logo {
+  width: 12vh;
+  height: 12vh;
+  margin: 1em;
+}
+main {
+  width: 60vw;
+  margin-left: 20%;
+  background-color: #dddddd;
+}
+h2 {
+  font-family: Arial;
+  font-size: 20pt;
+  color: blue;
+  text-shadow: 2px 2px 2px rgb(8, 8, 8);
+  text-align: center;
+  margin: 1em;
+}
+h1 {
+  font-family: Arial;
+  font-size: 30pt;
+  color: blue;
+  text-shadow: 2px 2px 2px rgb(243, 233, 233);
+  text-align: center;
+}
+
+li {
+  margin: 1em;
+}
+img#banner {
+  position: relative;
+  top: 0%;
+  left: 26%;
+}
+p.text1 {
+  text-align: center;
+  margin: 1em;
+  border-radius: 25px;
+  font-size: 16px;
+  background-color: #606060;
+  border: solid;
+}
+p.text2 {
+  text-align: center;
+  margin: 1em;
+  border-radius: 25px;
+  font-size: 17px;
+  background-color: #606060;
+  border: solid;
+}
+p.text3 {
+  text-align: center;
+  margin: 1em;
+  border-radius: 15px;
+  font-size: 17px;
+  background-color: #606060;
+  border: solid;
+}
+p.text4 {
+  text-align: center;
+  margin: 1em;
+  border-radius: 24px;
+  font-size: 17px;
+  background-color: #606060;
+  border: solid;
+}
+p.text5 {
+  width: 18em;
+  text-align: center;
+  margin: -1em;
+  margin-left: 27em;
+  border-radius: 25px;
+  font-size: 16px;
+  background-color: #606060;
+  border: solid;
+}
+p.text6 {
+  text-align: center;
+  margin: 2em;
+  border-radius: 25px;
+  font-size: 17px;
+  background-color: #606060;
+  border: solid;
+}
+p.text7 {
+  text-align: center;
+  margin: 1em;
+  border-radius: 25px;
+  font-size: 17px;
+  background-color: #606060;
+  border: solid;
+  width: 10rem;
+}
+figure {
+  margin: 1em;
+  width: 71vh;
+  height: 28vw;
+  position: relative;
+  top: 1em;
+  left: 22em;
+}
+figcaption {
+  width: 31vw;
+  height: 18vh;
+  text-shadow: indigo;
+}
+section {
+  width: 100vh;
+  height: 50vw;
+}
+.delicias1 {
+  width: 32vw;
+  height: 40vh;
+}
+.delicia {
+  width: 43vh;
+  height: 19vw;
+}
+
+footer {
+  width: 100%;
+  height: 20%;
+  background-color: #606060;
+  color: blue;
+}
+#Confeitar {
+  position: relative;
+  left: -3em;
+  top: -3em;
+}
+p.textFooter {
+}
